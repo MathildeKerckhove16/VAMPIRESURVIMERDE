@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1cf6173d75c95dd448bcf28845c26411
+guid: 4233111f7e62ddd4cb80d8432a246c19
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -116,64 +116,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bench_0
+      name: enfant_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 491.33334
-        height: 579
-      alignment: 9
-      pivot: {x: 0.5335096, y: 0.5044899}
+        width: 238.66667
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a1f5406753ab234ebf13a57f3356a00
-      internalID: 1520645547
+      spriteID: 8af11d201cd09594698f32a3d2b730c5
+      internalID: -2071002902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bench_1
+      name: enfant_1
       rect:
         serializedVersion: 2
-        x: 491
+        x: 247
         y: 0
-        width: 491.33334
-        height: 579
-      alignment: 9
-      pivot: {x: 0.5934744, y: 0.5044899}
+        width: 239
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecfe2953e914f1242a94622fea3ec36c
-      internalID: -373637940
+      spriteID: ce2b7fc687e17414c9abcee44c7c057f
+      internalID: -396043572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bench_2
+      name: enfant_2
       rect:
         serializedVersion: 2
-        x: 982
+        x: 485
         y: 0
-        width: 491.33334
-        height: 579
-      alignment: 9
-      pivot: {x: 0.59523785, y: 0.5059865}
+        width: 231
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5238f186e8952fe4290d285aca037851
-      internalID: 187766353
+      spriteID: 34193514f65a60d49a01cb9f6cae1ed1
+      internalID: 1929587979
       vertices: []
       indices: 
       edges: []
@@ -189,9 +189,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      bench_0: 1520645547
-      bench_2: 187766353
-      bench_1: -373637940
+      enfant_2: 1929587979
+      enfant_0: -2071002902
+      enfant_1: -396043572
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1cf6173d75c95dd448bcf28845c26411
+guid: 080ce2a0d59522648ae1771cdbc97194
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -116,64 +116,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bench_0
+      name: croquettes_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 491.33334
-        height: 579
-      alignment: 9
-      pivot: {x: 0.5335096, y: 0.5044899}
+        width: 86.333336
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a1f5406753ab234ebf13a57f3356a00
-      internalID: 1520645547
+      spriteID: a4d35f58113b222498a9b58f962cf4f8
+      internalID: -825219633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bench_1
+      name: croquettes_1
       rect:
         serializedVersion: 2
-        x: 491
+        x: 86
         y: 0
-        width: 491.33334
-        height: 579
-      alignment: 9
-      pivot: {x: 0.5934744, y: 0.5044899}
+        width: 86.333336
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecfe2953e914f1242a94622fea3ec36c
-      internalID: -373637940
+      spriteID: a8376f9f7c5c2b34583356ca2846dafa
+      internalID: 1136012470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bench_2
+      name: croquettes_2
       rect:
         serializedVersion: 2
-        x: 982
+        x: 175
         y: 0
-        width: 491.33334
-        height: 579
-      alignment: 9
-      pivot: {x: 0.59523785, y: 0.5059865}
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5238f186e8952fe4290d285aca037851
-      internalID: 187766353
+      spriteID: d1d3724aaff4a304091ff703f2029dc6
+      internalID: -798998428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croquettes_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee0a6bf5c25a6142bffb7df82efcac0
+      internalID: 1952840812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croquettes_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307704300e341414c9d4af84b10b6fd9
+      internalID: 1384619072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croquettes_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9d50ce491704245abdc386262cf47b
+      internalID: 794305838
       vertices: []
       indices: 
       edges: []
@@ -189,9 +252,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      bench_0: 1520645547
-      bench_2: 187766353
-      bench_1: -373637940
+      croquettes_4: 1384619072
+      croquettes_1: 1136012470
+      croquettes_5: 794305838
+      croquettes_3: 1952840812
+      croquettes_2: -798998428
+      croquettes_0: -825219633
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

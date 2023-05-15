@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1cf6173d75c95dd448bcf28845c26411
+guid: 1ad84f7b952c68d4cb27abbd1cf84bbd
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -116,64 +116,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bench_0
+      name: doberman_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 491.33334
-        height: 579
-      alignment: 9
-      pivot: {x: 0.5335096, y: 0.5044899}
+        width: 680.3333
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a1f5406753ab234ebf13a57f3356a00
-      internalID: 1520645547
+      spriteID: 7ca4a0372ad241d409c0e62cc90dfef9
+      internalID: -734827923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bench_1
+      name: doberman_1
       rect:
         serializedVersion: 2
-        x: 491
+        x: 680
         y: 0
-        width: 491.33334
-        height: 579
-      alignment: 9
-      pivot: {x: 0.5934744, y: 0.5044899}
+        width: 680.3333
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecfe2953e914f1242a94622fea3ec36c
-      internalID: -373637940
+      spriteID: 50f259d293d00b347956d5df96928c54
+      internalID: -1349684182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bench_2
+      name: doberman_2
       rect:
         serializedVersion: 2
-        x: 982
+        x: 1360
         y: 0
-        width: 491.33334
-        height: 579
-      alignment: 9
-      pivot: {x: 0.59523785, y: 0.5059865}
+        width: 680.3333
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5238f186e8952fe4290d285aca037851
-      internalID: 187766353
+      spriteID: 81dcb4dfa7f214e46ada2f1e0f895d54
+      internalID: -1091619780
       vertices: []
       indices: 
       edges: []
@@ -189,9 +189,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      bench_0: 1520645547
-      bench_2: 187766353
-      bench_1: -373637940
+      doberman_2: -1091619780
+      doberman_0: -734827923
+      doberman_1: -1349684182
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

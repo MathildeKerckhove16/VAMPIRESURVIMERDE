@@ -24,13 +24,13 @@ namespace Gameplay.Weapons
 
         public override void Update(PlayerController player)
         {
+
             _timerCoolDown += Time.deltaTime;
 
             if (_timerCoolDown < _coolDown)
                 return;
 
             _timerCoolDown -= _coolDown;
-
             //EnemyController enemy = MainGameplay.Instance.GetRandomEnemyOnScreen();
             //if (enemy == null)
             //    return;

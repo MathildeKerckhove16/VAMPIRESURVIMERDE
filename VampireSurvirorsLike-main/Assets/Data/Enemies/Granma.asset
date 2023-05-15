@@ -9,7 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d7b86bd7009b2e34bad173aea64b75ea, type: 3}
-  m_Name: LevelUpData
+  m_Script: {fileID: 11500000, guid: dc039ccc39f388b4d87fcee0a88c2b02, type: 3}
+  m_Name: Granma
   m_EditorClassIdentifier: 
-  _xpForLevels: 0000000000000000050000000a00000014000000230000003c00000078000000c80000000401000036010000f4010000
+  _life: 12
+  _damagePerSeconds: 15
+  _moveSpeed: 0.5
+  _prefab: {fileID: 7654918703708801626, guid: bc63bbf30f2977e4d9ed2c16afa08b56, type: 3}
+  _spriteOverride: {fileID: 0}

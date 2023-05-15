@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 7367387483162049212}
   - component: {fileID: -6240429786181169072}
   m_Layer: 6
-  m_Name: Enemy
+  m_Name: Granma
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

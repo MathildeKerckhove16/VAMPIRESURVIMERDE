@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _waves:
   - _timeToStart: 2
-    _timesToRepeat: 8
+    _timesToRepeat: 25
     _repeatTimer: 3
-    _enemyCount: 4
+    _enemyCount: 2
     _enemy: {fileID: 11400000, guid: de7771034e75ff04197edc11a666a0a1, type: 2}
     _movementType: 0
     _spawnDistance: 15
@@ -25,5 +25,12 @@ MonoBehaviour:
     _repeatTimer: 0
     _enemyCount: 1
     _enemy: {fileID: 11400000, guid: fdb51e8dc444cc943ac974d7cfa9bab9, type: 2}
+    _movementType: 0
+    _spawnDistance: 15
+  - _timeToStart: 2
+    _timesToRepeat: 25
+    _repeatTimer: 3
+    _enemyCount: 2
+    _enemy: {fileID: 11400000, guid: 48991d6f7e6e82e45989a7a7d1a6b719, type: 2}
     _movementType: 0
     _spawnDistance: 15

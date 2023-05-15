@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1cf6173d75c95dd448bcf28845c26411
+guid: 1e91a273c84489647b5366aa5f52f9cb
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -116,64 +116,106 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bench_0
+      name: dilawalk_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 491.33334
-        height: 579
-      alignment: 9
-      pivot: {x: 0.5335096, y: 0.5044899}
+        width: 113
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a1f5406753ab234ebf13a57f3356a00
-      internalID: 1520645547
+      spriteID: cf638c4e1c4b5284481c221500de6d0a
+      internalID: -1433165751
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bench_1
+      name: dilawalk_1
       rect:
         serializedVersion: 2
-        x: 491
+        x: 113
         y: 0
-        width: 491.33334
-        height: 579
-      alignment: 9
-      pivot: {x: 0.5934744, y: 0.5044899}
-      border: {x: 0, y: 0, z: 0, w: 0}
+        width: 113.8
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 1, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecfe2953e914f1242a94622fea3ec36c
-      internalID: -373637940
+      spriteID: 25f861bd9be07104bae99bf98583aae2
+      internalID: 309691380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bench_2
+      name: dilawalk_2
       rect:
         serializedVersion: 2
-        x: 982
+        x: 226
         y: 0
-        width: 491.33334
-        height: 579
-      alignment: 9
-      pivot: {x: 0.59523785, y: 0.5059865}
+        width: 113.8
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5238f186e8952fe4290d285aca037851
-      internalID: 187766353
+      spriteID: 4b132920deb70f4439c61c227a2f87e1
+      internalID: -1137702327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dilawalk_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 113.8
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a44394fdbd212643afbbd8369bdb5b3
+      internalID: 2131951592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dilawalk_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 113.8
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1e1356f3db8284eb24708cee0e8d52
+      internalID: -951340756
       vertices: []
       indices: 
       edges: []
@@ -189,9 +231,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      bench_0: 1520645547
-      bench_2: 187766353
-      bench_1: -373637940
+      dilawalk_1: 309691380
+      dilawalk_4: -951340756
+      dilawalk_2: -1137702327
+      dilawalk_0: -1433165751
+      dilawalk_3: 2131951592
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
