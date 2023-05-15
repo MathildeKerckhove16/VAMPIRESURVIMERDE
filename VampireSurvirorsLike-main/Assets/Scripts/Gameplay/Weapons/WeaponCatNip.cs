@@ -15,6 +15,7 @@ namespace Gameplay.Weapons
         [SerializeField] GameObject _prefab;
         bool isSpeedBoosted = true;
         public PlayerController player;
+        public float boostDuration = 5.0f;
 
         public WeaponCatNip()
         {
@@ -30,10 +31,13 @@ namespace Gameplay.Weapons
 
         }
 
-        void Start()
+        public void ActivateSpeedBoost()
         {
-            // Lance une coroutine qui attend 5 secondes avant de changer la valeur du booléen
-            StartCoroutine(ChangeBoolAfterDelay(player));
+            if (!isSpeedBoosted)
+            {
+                isSpeedBoosted = true;
+                StartCoroutine(DisableSpeedBoost());
+            }
         }
 
         private void StartCoroutine(IEnumerator enumerator)
@@ -41,12 +45,11 @@ namespace Gameplay.Weapons
             throw new NotImplementedException();
         }
 
-        private IEnumerator ChangeBoolAfterDelay(PlayerController player)
+        // Désactive l'effet de vitesse boostée après la durée spécifiée
+        private IEnumerator DisableSpeedBoost()
         {
-            yield return new WaitForSeconds(5f); // attend 5 secondes
-
-            isSpeedBoosted = false; // change la valeur du booléen
-            player.SpeedMultiplier = 2;
+            yield return new WaitForSeconds(boostDuration);
+            isSpeedBoosted = false;
         }
     }
 }

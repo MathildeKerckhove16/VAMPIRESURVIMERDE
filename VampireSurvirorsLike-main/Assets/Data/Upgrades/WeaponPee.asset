@@ -10,17 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 46a8eaf7f7549014c8d97c971d54d2b0, type: 3}
-  m_Name: WeaponCatNip
+  m_Name: WeaponPee
   m_EditorClassIdentifier: 
-  _description: "OERJGOI\xA8QEJSRJUHPOTRSJKOPRSKTROJK CATNIP"
-  _sprite: {fileID: 21300000, guid: 82176bcef51ab6b4583f29287edb1455, type: 3}
+  _description: Je dois faire pipi sur toi et vlan
+  _sprite: {fileID: 21300000, guid: 36450936ed3fd6a49bdc8457728542a8, type: 3}
   _upgrade:
-    rid: 0
+    rid: 3392075086456946689
   _nextUpgrades: []
   references:
     version: 2
     RefIds:
-    - rid: 0
+    - rid: 3392075086456946689
       type: {class: WeaponUpgrade, ns: , asm: Assembly-CSharp}
       data:
-        _data: {fileID: 11400000, guid: 590460a778b031e4695a5b35865dc0e9, type: 2}
+        _data: {fileID: 11400000, guid: 749796c78478fda469a346596a4cf3da, type: 2}

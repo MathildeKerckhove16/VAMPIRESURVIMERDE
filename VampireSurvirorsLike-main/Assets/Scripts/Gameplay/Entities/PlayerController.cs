@@ -20,7 +20,7 @@ public class PlayerController : Unit
     public Action<int> OnLevelUp { get; set; }
     public List<UpgradeData> UpgradesAvailable { get; private set; }
 
-    public float SpeedMultiplier { get; set; }
+    public float SpeedMultiplier { get; set; } = 5.0f;
 
 
     public Vector2 Direction => _lastDirection;

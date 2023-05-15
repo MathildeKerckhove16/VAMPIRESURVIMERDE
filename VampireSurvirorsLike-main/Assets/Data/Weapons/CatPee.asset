@@ -10,20 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fca8c8437b00b3a4ca793e4e5492b008, type: 3}
-  m_Name: Catnip
+  m_Name: CatPee
   m_EditorClassIdentifier: 
   _weapon:
-    rid: 3392075083587780608
-  _slotIndex: 5
+    rid: 3392075086456946690
+  _slotIndex: 7
   references:
     version: 2
     RefIds:
-    - rid: 3392075083587780608
-      type: {class: WeaponCatNip, ns: Gameplay.Weapons, asm: Assembly-CSharp}
+    - rid: 3392075086456946690
+      type: {class: WeaponPee, ns: Gameplay.Weapons, asm: Assembly-CSharp}
       data:
         _damageMin: 0
         _damageMax: 0
         _coolDown: 0
-        _prefab: {fileID: 0}
-        player: {fileID: 0}
-        boostDuration: 5
+        _prefab: {fileID: 3633932044844237191, guid: f57ff95662ad37f4fbe2ec469424a626, type: 3}
