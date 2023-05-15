@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: WeaponPee
   m_EditorClassIdentifier: 
   _description: Je dois faire pipi sur toi et vlan
-  _sprite: {fileID: 21300000, guid: 36450936ed3fd6a49bdc8457728542a8, type: 3}
+  _sprite: {fileID: 21300000, guid: 0deb8bf46ce02e841bec171b90e08e0d, type: 3}
   _upgrade:
     rid: 3392075086456946689
   _nextUpgrades: []
