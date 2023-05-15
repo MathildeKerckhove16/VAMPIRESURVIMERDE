@@ -20,12 +20,15 @@ public class PlayerController : Unit
     public Action<int> OnLevelUp { get; set; }
     public List<UpgradeData> UpgradesAvailable { get; private set; }
 
+    public float SpeedMultiplier { get; set; }
+
 
     public Vector2 Direction => _lastDirection;
     public float DirectionX => _lastDirectionX;
     public PlayerData PlayerData => _playerData;
 
     public List<WeaponBase> Weapons => _weapons;
+
 
     int _level = 1;
     int _xp = 0;
@@ -107,7 +110,7 @@ public class PlayerController : Unit
         if (_inputs.sqrMagnitude > 0)
         {
             _inputs.Normalize();
-            _rb.velocity = _inputs * _playerData.MoveSpeed;
+            _rb.velocity = _inputs * _playerData.MoveSpeed * SpeedMultiplier;
             
             _lastDirection = _inputs;
 
