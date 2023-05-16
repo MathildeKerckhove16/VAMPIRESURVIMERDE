@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8733201384552438573}
   - component: {fileID: 662313783048621292}
   - component: {fileID: 407989221694922850}
+  - component: {fileID: -835965915230158567}
   m_Layer: 0
   m_Name: poupette_1_0
   m_TagString: Untagged
@@ -105,3 +106,55 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!60 &-835965915230158567
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 621766740865678032}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.8, y: 0.86}
+    newSize: {x: 1.8, y: 0.86}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.78, y: -0.35}
+      - {x: 0.9, y: -0.19999999}
+      - {x: 0.9, y: -0.01}
+      - {x: 0.82, y: 0.06}
+      - {x: 0.55, y: 0.19999999}
+      - {x: 0.56, y: 0.28}
+      - {x: 0.38, y: 0.41}
+      - {x: 0.25, y: 0.39}
+      - {x: 0.12, y: 0.42999998}
+      - {x: -0.04, y: 0.42999998}
+      - {x: -0.11, y: 0.41}
+      - {x: -0.45999998, y: 0.35999998}
+      - {x: -0.59999996, y: 0.32}
+      - {x: -0.72999996, y: 0.21}
+      - {x: -0.84999996, y: 0.17}
+      - {x: -0.84999996, y: 0.099999994}
+      - {x: -0.9, y: 0.04}
+      - {x: -0.9, y: -0.08}
+      - {x: -0.81, y: -0.17}
+      - {x: -0.76, y: -0.22999999}
+      - {x: -0.7, y: -0.37}
+      - {x: -0.56, y: -0.41}
+      - {x: -0.35999998, y: -0.42999998}
+      - {x: -0.08, y: -0.42999998}
+      - {x: 0.19999999, y: -0.35}
+      - {x: 0.37, y: -0.37}
+      - {x: 0.65, y: -0.38}
