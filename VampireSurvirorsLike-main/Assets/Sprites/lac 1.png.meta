@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bc4ca331c2af564449535d4e4c10f480
+guid: f0b05edbd9792e64aa35601a083e1cbf
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -116,85 +116,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: vomisanim_0
+      name: lac 1_0
       rect:
         serializedVersion: 2
-        x: 88
+        x: 0
         y: 0
-        width: 113
-        height: 181
-      alignment: 9
-      pivot: {x: 0.05649202, y: 0.35033178}
-      border: {x: 23, y: 0, z: 90, w: 0}
+        width: 969
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 4, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fb22f3690273ad46a9d8b82de6e525a
-      internalID: -734829705
+      spriteID: 14dbd7fbee8088e48b208456f7482630
+      internalID: -1105008628
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vomisanim_1
+      name: lac 1_1
       rect:
         serializedVersion: 2
-        x: 323
+        x: 969
         y: 0
-        width: 270
-        height: 181
-      alignment: 9
-      pivot: {x: 0.10870079, y: 0.38400716}
-      border: {x: 17, y: 0, z: 0, w: 0}
+        width: 969
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 1, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 550f83b81aa423f4a851987da64513c6
-      internalID: -1701797736
+      spriteID: 3b1ddf77c18dd6a49aa5f924a4b452bb
+      internalID: -918811996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vomisanim_2
+      name: lac 1_2
       rect:
         serializedVersion: 2
-        x: 695
+        x: 1938
         y: 0
-        width: 169
-        height: 181
-      alignment: 9
-      pivot: {x: 0.09926086, y: 0.5}
-      border: {x: 113, y: 0, z: 0, w: 0}
+        width: 969
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f07c0201ec845954e9777edf9bdb5f1a
-      internalID: -969528846
+      spriteID: 651af86254f6f364984d3b77fec343ff
+      internalID: 309067697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vomisanim_3
+      name: lac 1_3
       rect:
         serializedVersion: 2
-        x: 953
+        x: 2907
         y: 0
-        width: 115
-        height: 181
-      alignment: 9
-      pivot: {x: 0.087761655, y: 0.33910668}
-      border: {x: 42, y: 0, z: 73, w: 0}
+        width: 969
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70a31a7abe9a2a4419bf5fc6863c55cd
-      internalID: 779124613
+      spriteID: 61656a80cd188fe4d93cfdac45510d5a
+      internalID: 1810085199
       vertices: []
       indices: 
       edges: []
@@ -210,10 +210,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      vomisanim_1: -1701797736
-      vomisanim_0: -734829705
-      vomisanim_3: 779124613
-      vomisanim_2: -969528846
+      lac 1_2: 309067697
+      lac 1_3: 1810085199
+      lac 1_1: -918811996
+      lac 1_0: -1105008628
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

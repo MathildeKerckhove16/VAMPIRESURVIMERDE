@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1782045974559781731}
   - component: {fileID: 2352637502417198498}
   - component: {fileID: 4064307374864738690}
+  - component: {fileID: -5356087961203438116}
   m_Layer: 0
   m_Name: lac
   m_TagString: Untagged
@@ -73,8 +74,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 844424ed27fa21648905758cc958af89, type: 3}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: -1105008628, guid: f0b05edbd9792e64aa35601a083e1cbf, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -100,9 +101,9 @@ PolygonCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
+    border: {x: 0, y: 0, z: 0.040072322, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 9.69, y: 4.74}
+    oldSize: {x: 9.70752, y: 4.7400002}
     newSize: {x: 9.69, y: 4.74}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -274,3 +275,23 @@ PolygonCollider2D:
       - {x: -2.825, y: 0.91999996}
       - {x: -2.895, y: 0.98999995}
       - {x: -2.995, y: 0.97999996}
+--- !u!95 &-5356087961203438116
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8684041638426523311}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5309f27964e4a2c47a5c878c3a108529, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
