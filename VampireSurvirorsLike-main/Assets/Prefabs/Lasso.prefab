@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3079708805368454866}
   - component: {fileID: 8980172895944532839}
   - component: {fileID: 5823720444788950676}
+  - component: {fileID: 3301259001421209964}
   m_Layer: 3
   m_Name: Lasso
   m_TagString: Untagged
@@ -86,6 +87,26 @@ CapsuleCollider2D:
   m_Offset: {x: 0.02371375, y: -0.000000008480697}
   m_Size: {x: 0.9810471, y: 1.000011}
   m_Direction: 1
+--- !u!95 &3301259001421209964
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3633932044844237191}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3b42f78091d3b9f46982d4aa174ef4fc, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &6585815197233570944
 GameObject:
   m_ObjectHideFlags: 0
@@ -159,7 +180,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 0bf7472caa736de45883938ec74cb6f5, type: 3}
+  m_Sprite: {fileID: -734829705, guid: bc4ca331c2af564449535d4e4c10f480, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
